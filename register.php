@@ -25,8 +25,8 @@
 
     <div class="uk-margin">
         <div class="uk-inline">
-            <form class="uk-form-stacked js-login">
-
+            <form class="uk-form-stacked js-register">
+		<h2>Register</h2>
     <div class="uk-margin">
         <label class="uk-form-label" for="form-stacked-text">Email</label>
         <div class="uk-form-controls">
@@ -42,7 +42,7 @@
     </div>
 
     <div class="uk-margin">
-        <button class="uk-button uk-button-default" type="submit">LOGIN</button>
+        <button class="uk-button uk-button-default" type="submit">REGISTER</button>
     </div>
     
 

@@ -26,6 +26,7 @@
     <div class="uk-margin">
         <div class="uk-inline">
             <form class="uk-form-stacked js-login">
+			<h2>Login</h2>
 
     <div class="uk-margin">
         <label class="uk-form-label" for="form-stacked-text">Email</label>
